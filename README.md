@@ -1,2 +1,2 @@
 # gh-pages-test
-Testing GitHub Pasges
+Testing GitHub Pages
